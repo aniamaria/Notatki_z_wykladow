@@ -8,7 +8,7 @@ https://www.firebase.pl.com/
 
 responsywna strona - widoczna rownież na telefonie komórkowym
 
-   Problemy:
+Problemy:
 
   komunikacja z tym co jest w chmurze
   
