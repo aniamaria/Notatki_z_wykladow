@@ -40,7 +40,8 @@ kaskadowe arkusze stylów:
 
   row - nazwa klasy.
   
-
+ ![zdjęcie](js.jpg)
+ 
 
   
   
