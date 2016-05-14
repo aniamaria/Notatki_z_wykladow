@@ -38,5 +38,9 @@ kaskadowe arkusze stylów:
 
   div - nazwa elementu
 
-  row - nazwa klasy
+  row - nazwa klasy.
+  
+
+
+  
   
