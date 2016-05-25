@@ -43,6 +43,7 @@ Turing - druga wojna światowa
 
 <img data-src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS-KHvLCtofn2-rJ__VsAG6FYO08Rq4dY4Fckkfcxilk-_fZ7mj" data-sz="f" name="uq9O3GMALbu7yM:" class="rg_i" alt="Znalezione obrazy dla zapytania js" jsaction="load:str.tbn" onload="google.aft&amp;&amp;google.aft(this)" style="width: 285px; height: 177px; margin-left: 0px; margin-right: 0px; margin-top: 0px;" src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS-KHvLCtofn2-rJ__VsAG6FYO08Rq4dY4Fckkfcxilk-_fZ7mj">
 
+
 dograć rzeczy z Windows - wymyślonych  przez dwóch ludzi
 
 css - strona wbzyl.inf.ug.edu.pl - kaskadowe arkusze stylów - techniki internetowe (2008)
