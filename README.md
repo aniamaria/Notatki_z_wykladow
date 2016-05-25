@@ -40,7 +40,7 @@ kaskadowe arkusze stylów:
 
   row - nazwa klasy.
   
- ![js.jpg](js.jpg)
+ ! https://github.com/aniamaria/aniamaria/blob/gh-pages/images/js.png
  
 14 maja 2016
 
