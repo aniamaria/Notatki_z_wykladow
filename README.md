@@ -2,7 +2,7 @@
 
 ### 23 kwietnia 2016
 
-<img class="irc_mi iGSe2eKBnP2A-pQOPx8XEepE" alt="" style="margin-top: 95px;" src="http://mfi.ug.edu.pl/sites/default/files/styles/adaptive/public/_nodes/budynek/5724/images/budynek54.jpg?itok=MH12yzv7" width="304" height="203">
+<img data-src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS-KHvLCtofn2-rJ__VsAG6FYO08Rq4dY4Fckkfcxilk-_fZ7mj" data-sz="f" name="uq9O3GMALbu7yM:" class="rg_i" alt="Znalezione obrazy dla zapytania js" jsaction="load:str.tbn" onload="google.aft&amp;&amp;google.aft(this)" style="width: 285px; height: 177px; margin-left: 0px; margin-right: 0px; margin-top: 0px;" src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS-KHvLCtofn2-rJ__VsAG6FYO08Rq4dY4Fckkfcxilk-_fZ7mj">
 
 JAVA SCRIPT - język programowania (język znaczników)
 HTML: 
