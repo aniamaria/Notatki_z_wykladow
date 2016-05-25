@@ -1,6 +1,12 @@
 # Notatki_z_wykladow
 
-###16 kwietnia 2016
+### 23 kwietnia 2016
+
+JAVA SCRIPT - język programowania (język znaczników)
+HTML - http://jsfiddle.net/
+http://sass-lang.com/
+
+### 16 kwietnia 2016
 
 Polski Kurs Blendera, Instytut matematyki - strony gotowe
 
