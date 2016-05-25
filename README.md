@@ -40,7 +40,7 @@ kaskadowe arkusze stylów:
 
   row - nazwa klasy.
   
- 14 maja 2016
+# 14 maja 2016
 
 inne strony internetowe
 
