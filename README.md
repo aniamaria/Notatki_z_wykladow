@@ -2,6 +2,8 @@
 
 ### 23 kwietnia 2016
 
+<img class="irc_mi iGSe2eKBnP2A-pQOPx8XEepE" alt="" style="margin-top: 95px;" src="http://mfi.ug.edu.pl/sites/default/files/styles/adaptive/public/_nodes/budynek/5724/images/budynek54.jpg?itok=MH12yzv7" width="304" height="203">
+
 JAVA SCRIPT - język programowania (język znaczników)
 HTML: 
 
