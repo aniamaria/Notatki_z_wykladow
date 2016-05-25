@@ -42,6 +42,16 @@ kaskadowe arkusze stylów:
   
  ![js.jpg](js.jpg)
  
+14 maja 2016
+
+inne strony internetowe
+
+inne pomysły
+
+ciekawostki - szkolenia dla kobiet
+
+Na nastepnym zjeździe - ZALICZENIE 
+
 
   
   
