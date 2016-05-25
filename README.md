@@ -48,7 +48,9 @@ inne pomysły
 
 ciekawostki - szkolenia dla kobiet
 
-Na nastepnym zjeździe - ZALICZENIE 3 czerwaca, o tutaj :-)
+Na nastepnym zjeździe - ZALICZENIE 3 czerwca 2016 roku.
+
+O tutaj :-)
  
  <img class="irc_mi iGSe2eKBnP2A-pQOPx8XEepE" alt="" style="margin-top: 95px;" src="http://mfi.ug.edu.pl/sites/default/files/styles/adaptive/public/_nodes/budynek/5724/images/budynek54.jpg?itok=MH12yzv7" width="304" height="203">
  
