@@ -1,6 +1,6 @@
-## Notatki_z_wykladow
+# Notatki_z_wykladow
 
-16 kwietnia 2016
+#16 kwietnia 2016
 
 Polski Kurs Blendera, Instytut matematyki - strony gotowe
 
