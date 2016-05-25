@@ -63,7 +63,7 @@ inne pomysły
 
 ciekawostki - szkolenia dla kobiet
 
-Na nastepnym zjeździe - ZALICZENIE 3 czerwca 2016 roku.
+Na nastepnym zjeździe - ZALICZENIE ######3 czerwca 2016 roku.
 
 O tutaj :-)
  
