@@ -3,8 +3,12 @@
 ### 23 kwietnia 2016
 
 JAVA SCRIPT - język programowania (język znaczników)
-HTML - http://jsfiddle.net/
+HTML: 
+http://jsfiddle.net/
 http://sass-lang.com/
+
+znaczniki np. #, ##, ###, ####, itp. - zmiana rozmiaru czcionki.
+
 
 ### 16 kwietnia 2016
 
