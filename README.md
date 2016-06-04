@@ -1,5 +1,36 @@
 # Notatki_z_wykladow
 
+### 5 marca 2016
+
+GitHub - narzędzie do zarządzania kodem
+GitLab
+
+WPROWADZENIE
+  Założenie profilu (Your profil)
+  h5c3.j/pspi
+  [imię nazwisko](https://github.com/.............<- mój profil /
+  
+  Należy stworzyć swoje Repozytorium oraz Stronę (np. MarkDown)
+  
+### 19 marca 2016
+
+JSFiddle - tworzenie stron HTML
+
+panel css -> swoje znaczki mogę wprowadzić -> zapoznamy się w kwietniu
+
+HTML -> logika          scc -> wizualizacja
+
+Sass - wartos się nauczyć  - bo tu lepiej pisać w scc
+
+AsciiDoc
+            -> lepsze od HTML
+MarkDown
+
+www.asp.katowice.pl  -> ciekawa strona
+
+Programowanie strony w GITHub:
+      Settings -> GitHub Pages -> Launch automatic page generator -> Continue to layouts (na samym dole)
+
 ### 23 kwietnia 2016
 
 <img data-src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS-KHvLCtofn2-rJ__VsAG6FYO08Rq4dY4Fckkfcxilk-_fZ7mj" data-sz="f" name="uq9O3GMALbu7yM:" class="rg_i" alt="Znalezione obrazy dla zapytania js" jsaction="load:str.tbn" onload="google.aft&amp;&amp;google.aft(this)" style="width: 285px; height: 177px; margin-left: 0px; margin-right: 0px; margin-top: 0px;" src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS-KHvLCtofn2-rJ__VsAG6FYO08Rq4dY4Fckkfcxilk-_fZ7mj">
